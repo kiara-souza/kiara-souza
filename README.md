@@ -41,7 +41,7 @@ Meu objetivo é construir uma base técnica sólida, desenvolver projetos práti
 
 </div>
 
-### Back-End & Banco de Dados
+### Banco de Dados
 
 <div align="center">
 
