@@ -126,22 +126,10 @@ STATUS: LEARNING IN PROGRESS
 
 </div>
 
----
-
-## `07` // CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiara-souza&bg_color=080B16&color=00D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
 
 ---
 
-
----
-
-## `09` // CONECTE-SE COMIGO
+## `07` // CONECTE-SE COMIGO
 
 <div align="center">
 
