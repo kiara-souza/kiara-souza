@@ -138,15 +138,6 @@ STATUS: LEARNING IN PROGRESS
 
 ---
 
----
-
-## `08` // CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kiara-souza/kiara-souza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
