@@ -19,7 +19,7 @@
 
 Olá! Sou Kiara Souza, estudante de **Análise e Desenvolvimento de Sistemas no Senac**, interessada em programação e desenvolvimento de software.
 
-Atualmente, estou direcionando meus estudos para o desenvolvimento Back-End, com foco em Java, lógica de programação, estruturas de dados e banco de dados.
+Atualmente, estou direcionando meus estudos para o desenvolvimento Full Stack, com foco em Java, lógica de programação, estruturas de dados e banco de dados.
 
 Meu objetivo é construir uma base técnica sólida, desenvolver projetos práticos e evoluir continuamente como desenvolvedora.
 
@@ -91,11 +91,7 @@ Projeto de prototipação de uma aplicação para controle financeiro pessoal, c
 
 `UX/UI` `Figma` `Prototipação`
 
-### 🔥 Água e Fogo
 
-Projeto acadêmico de desenvolvimento de jogo, explorando lógica de programação e conceitos de desenvolvimento de software.
-
-`Java` `Lógica de Programação`
 
 <div align="center">
 
