@@ -85,13 +85,6 @@ Meu objetivo é construir uma base técnica sólida, desenvolver projetos práti
 
 </div>
 
-### 💰 Meu Bolso
-
-Projeto de prototipação de uma aplicação para controle financeiro pessoal, com gerenciamento de despesas, salário e metas de economia.
-
-`UX/UI` `Figma` `Prototipação`
-
-
 
 <div align="center">
 
@@ -145,17 +138,9 @@ STATUS: LEARNING IN PROGRESS
 
 ---
 
-## `08` // GITHUB TROPHIES
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kiara-souza&theme=onestar&no-frame=true&no-bg=true&column=7"/>
-
-</div>
-
 ---
 
-## `09` // CONTRIBUTION SNAKE
+## `08` // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -165,7 +150,7 @@ STATUS: LEARNING IN PROGRESS
 
 ---
 
-## `10` // CONECTE-SE COMIGO
+## `09` // CONECTE-SE COMIGO
 
 <div align="center">
 
