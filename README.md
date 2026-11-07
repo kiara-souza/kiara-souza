@@ -1,16 +1,15 @@
-# 👩🏻‍💻 KIARA SOUZA | FULL STACK DEVELOPER
+# 👩🏻‍💻 KIARA SOUZA
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B16,40:101B3D,100:00D9FF&text=KIARA%20SOUZA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20the%20future%20with%20code.&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080B16,50:101B3D,100:00D9FF&text=KIARA%20SOUZA&fontColor=FFFFFF&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Back-End%20Development%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=System+initialized...;Welcome+to+my+GitHub!;ADS+Student+%7C+Future+Full+Stack+Developer;Learning.+Building.+Evolving." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ADS+Student;Java+Developer+in+Progress;Back-End+Development;Learning+%7C+Building+%7C+Evolving" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-080B16?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/kiara-souza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080B16?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/kiara-souza-b0b279360/)
-[![Profile Views](https://komarev.com/ghpvc/?username=kiara-souza&style=for-the-badge&color=101B3D&label=PROFILE+VIEWS)](https://github.com/SEU_USUARIO)
 
 </div>
 
@@ -18,138 +17,119 @@
 
 ## `01` // SOBRE MIM
 
-<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+Olá! Sou Kiara Souza, estudante de **Análise e Desenvolvimento de Sistemas no Senac**, interessada em programação e desenvolvimento de software.
 
-Olá! Sou **Kiara Souza**, estudante de **Análise e Desenvolvimento de Sistemas no Senac** e entusiasta do universo da tecnologia.
+Atualmente, estou direcionando meus estudos para o desenvolvimento Back-End, com foco em Java, lógica de programação, estruturas de dados e banco de dados.
 
-Atualmente, estou desenvolvendo minhas habilidades em programação, lógica computacional e desenvolvimento de software, com foco na construção de uma carreira Full Stack.
-
-Gosto de entender como as coisas funcionam, transformar ideias em soluções e aprender novas tecnologias por meio da prática.
-
-**Além do código, acredito que tecnologia é criatividade, estratégia e evolução constante.**
+Meu objetivo é construir uma base técnica sólida, desenvolver projetos práticos e evoluir continuamente como desenvolvedora.
 
 - 🎓 Análise e Desenvolvimento de Sistemas — Senac
-- 💻 Estudando programação e desenvolvimento Full Stack
-- ☕ Desenvolvendo minha lógica de programação com Java
-- 🌐 Explorando desenvolvimento Web
-- 🚀 Sempre em busca de novos desafios e projetos
-
-<br clear="right"/>
+- ☕ Foco atual em Java e Programação Orientada a Objetos
+- 🗄️ Estudando conceitos de banco de dados e SQL
+- 💻 Desenvolvendo lógica de programação
+- 🚀 Evoluindo em direção ao desenvolvimento Full Stack
 
 ---
 
 ## `02` // TECH STACK
 
+### Linguagens de Programação
+
 <div align="center">
 
-### Languages & Programming
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python&theme=dark" />
+</div>
 
-### Currently Exploring
+### Back-End & Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,spring&theme=dark" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres&theme=dark"/>
+
+</div>
+
+### Desenvolvimento Web
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 
 </div>
 
 ---
 
-## `03` // TOOLS & ENVIRONMENT
+## `03` // FERRAMENTAS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark"/>
 
 </div>
 
-| Tool | Purpose |
-|:---|:---|
-| VS Code | Code editor |
-| IntelliJ IDEA | Java development |
-| Git & GitHub | Version control |
-| Figma | Interface design and prototyping |
-| Linux | Operating system studies |
+| Ferramenta | Utilização |
+|---|---|
+| IntelliJ IDEA | Desenvolvimento Java |
+| Visual Studio Code | Edição de código |
+| Git | Controle de versão |
+| GitHub | Repositórios e colaboração |
+| Figma | Prototipação de interfaces |
 
 ---
 
-## `04` // FEATURED PROJECTS
+## `04` // PROJETOS
 
 <div align="center">
 
-### ◈ Selected Creations
+**Transformando ideias em soluções através da tecnologia.**
 
 </div>
-
-<table>
-<tr>
-<td width="50%">
 
 ### 💰 Meu Bolso
 
-**Financial Management System**
+Projeto de prototipação de uma aplicação para controle financeiro pessoal, com gerenciamento de despesas, salário e metas de economia.
 
-A project focused on personal financial organization, expense tracking, salary management and savings goals.
-
-`UX/UI` `Figma` `Prototyping`
-
-[![Project](https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=080B16)](https://github.com/SEU_USUARIO/REPO_MEUBOLSO)
-
-</td>
-<td width="50%">
+`UX/UI` `Figma` `Prototipação`
 
 ### 🔥 Água e Fogo
 
-**Java Game Project**
+Projeto acadêmico de desenvolvimento de jogo, explorando lógica de programação e conceitos de desenvolvimento de software.
 
-An academic project exploring programming logic, game mechanics and software development through a water-and-fire themed game.
-
-`Java` `Logic` `Game Development`
-
-[![Project](https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=080B16)](https://github.com/SEU_USUARIO/REPO_AGUA_E_FOGO)
-
-</td>
-</tr>
-</table>
-
-> More projects coming soon. Every repository represents another step in my development journey.
-
----
-
-## `05` // CURRENT OBJECTIVES
+`Java` `Lógica de Programação`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Initializing+development+environment...;Loading+current+objectives...;All+systems+ready." />
+[![Repositories](https://img.shields.io/badge/VER%20REPOSITÓRIOS-00D9FF?style=for-the-badge&logo=github&logoColor=080B16)](https://github.com/kiara-souza?tab=repositories)
 
 </div>
 
+---
+
+## `05` // OBJETIVOS ATUAIS
+
 ```bash
-kiara@developer:~$ cat objectives.txt
+kiara@developer:~$ ./my-goals.sh
 
-[01] Mastering Java and Object-Oriented Programming
-[02] Improving programming logic and problem solving
-[03] Learning Full Stack Web Development
-[04] Exploring databases and SQL
-[05] Building real-world projects
-[06] Improving Git and GitHub workflow
-[07] Preparing for opportunities in technology
+[+] Aperfeiçoar Java
+[+] Estudar Programação Orientada a Objetos
+[+] Aprofundar lógica de programação
+[+] Aprender SQL e banco de dados
+[+] Explorar Spring Boot
+[+] Desenvolver projetos práticos
+[+] Evoluir no desenvolvimento Back-End
 
-kiara@developer:~$ status
-
-[████████████████░░░░] LEARNING IN PROGRESS
-
-kiara@developer:~$ _
+STATUS: LEARNING IN PROGRESS
 ```
 
 ---
 
-## `06` // GITHUB ANALYTICS
+## `06` // GITHUB STATS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiara-souza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00D9FF&icon_color=7B61FF&text_color=FFFFFF&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiara-souza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00D9FF&icon_color=7B61FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiara-souza&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br/>
 
@@ -163,7 +143,7 @@ kiara@developer:~$ _
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiara-souza&bg_color=080B16&color=00D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiara-souza&bg_color=080B16&color=00D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -173,7 +153,7 @@ kiara@developer:~$ _
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kiara-souza&theme=onestar&no-frame=true&no-bg=true&column=7"/>
 
 </div>
 
@@ -183,31 +163,30 @@ kiara@developer:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiara-souza/kiara-souza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/kiara-souza/kiara-souza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## `10` // LET'S CONNECT
+## `10` // CONECTE-SE COMIGO
 
 <div align="center">
 
-**Interested in technology, collaboration and new opportunities? Let's connect!**
-
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/kiara-souza">
 <img src="https://img.shields.io/badge/GitHub-080B16?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/kiara-souza-b0b279360/">
 <img src="https://img.shields.io/badge/LinkedIn-080B16?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:101B3D,100:080B16&height=120&section=footer"/>
+*"Every line of code is a step towards something bigger."*
 
-**"The best way to predict the future is to build it."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:101B3D,100:080B16&height=100&section=footer"/>
 
-<sub>Designed & developed with 💙 by Kiara Souza | © 2026</sub>
+<sub>Desenvolvido com 💙 por Kiara Souza | 2026</sub>
 
 </div>
