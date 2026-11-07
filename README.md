@@ -37,7 +37,7 @@ Meu objetivo é construir uma base técnica sólida, desenvolver projetos práti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Meu objetivo é construir uma base técnica sólida, desenvolver projetos práti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev"/>
 
 </div>
 
