@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080B16,50:101B3D,100:00D9FF&text=KIARA%20SOUZA&fontColor=FFFFFF&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Back-End%20Development%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ADS+Student;Java+Developer+in+Progress;Full Stack+Development;Learning+%7C+Building+%7C+Evolving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ADS+Student;Java+Developer+in+Progress;FullStack+Development;Learning+%7C+Building+%7C+Evolving" />
 
 <br/>
 
