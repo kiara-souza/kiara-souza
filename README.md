@@ -41,11 +41,11 @@ Meu objetivo é construir uma base técnica sólida, desenvolver projetos práti
 
 </div>
 
-### Banco de Dados
+### Back-End & Banco de Dados
 
 <div align="center">
 
-<img src="https://icons?i=spring,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=,mysql,postgres&theme=dark"/>
 
 </div>
 
